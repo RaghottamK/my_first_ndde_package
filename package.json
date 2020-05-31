@@ -1,0 +1,15 @@
+{
+  "name": "rk_add_operation",
+  "version": "1.0.1",
+  "description": "Adds two numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "add",
+    "number"
+  ],
+  "author": "IAMRK",
+  "license": "ISC"
+}
